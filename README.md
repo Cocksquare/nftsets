@@ -1,1 +1,1 @@
-Taken from iplist.opencck.org
+Taken from https://iplist.opencck.org
